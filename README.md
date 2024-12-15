@@ -55,7 +55,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 📬 Connect with Me
 - **LinkedIn**: [Prasad's LinkedIn](https://www.linkedin.com/in/kuteprasad)
 - **GitHub**: [Click to see my Github Profile](https://github.com/kuteprasad)
-- **Email**: [Click me for Email](prasadkute0708@gmail.com)
+- **Email**: prasadkute0708@gmail.com
 
 Feel free to explore my projects, star them 🌟, and reach out for collaborations!
 
